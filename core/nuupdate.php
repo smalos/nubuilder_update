@@ -40,7 +40,6 @@ function listFilesRecursive($directory, $basePath = '', $excludes = [], $rootInc
     return $files;
 }
 
-
 $rootIncludes = [
     'index.php',
     'LICENSE.txt',
@@ -53,14 +52,11 @@ $rootIncludes = [
 	"core"
 ];
 
-
 $excludes = [
     'abc.js',          // file in the base directory
     'abc/efg.php',     // file inside subdirectory 'abc'
     'nuconfig.php',    // exclude a whole folder
 ];
-
-
 
 $files = listFilesRecursive(__DIR__, '', $excludes, $rootIncludes);
 
