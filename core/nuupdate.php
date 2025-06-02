@@ -1,5 +1,12 @@
 <?php
 
+
+function nuRunUpdate() {
+	echo "nuRunUpdate";
+}
+
+return;
+
 function listFilesRecursive($directory, $basePath = '', $excludes = [], $rootIncludes = []) {
     $files = [];
 
