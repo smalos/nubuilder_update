@@ -1,0 +1,4 @@
+zzzzsys_user_id;sus_zzzzsys_access_id;sus_language;sus_name;sus_code;sus_position;sus_department;sus_team;sus_email;sus_additional1;sus_additional2;sus_login_name;sus_login_password;sus_expires_on;sus_accessibility_features;sus_json
+1;NULL;NULL;user1;NULL;NULL;NULL;NULL;NULL;NULL;NULL;login1;password1;NULL;NULL;NULL
+2;NULL;NULL;user2;NULL;NULL;NULL;NULL;NULL;NULL;NULL;login2;password2;NULL;NULL;NULL
+3;NULL;NULL;user3;NULL;NULL;NULL;NULL;NULL;NULL;NULL;login3;password3;NULL;NULL;NULL
