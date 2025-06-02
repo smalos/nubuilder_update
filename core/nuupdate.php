@@ -40,7 +40,6 @@ function listFilesRecursive($directory, $basePath = '', $excludes = [], $rootInc
     return $files;
 }
 
-function 
 
 $rootIncludes = [
     'index.php',
